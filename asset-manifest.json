@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tiktaktoe-react-reducer/static/css/main.663dd73e.css",
+    "main.js": "/tiktaktoe-react-reducer/static/js/main.992ea2b7.js",
+    "index.html": "/tiktaktoe-react-reducer/index.html",
+    "main.663dd73e.css.map": "/tiktaktoe-react-reducer/static/css/main.663dd73e.css.map",
+    "main.992ea2b7.js.map": "/tiktaktoe-react-reducer/static/js/main.992ea2b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.663dd73e.css",
+    "static/js/main.992ea2b7.js"
+  ]
+}
