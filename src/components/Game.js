@@ -49,7 +49,7 @@ export default function Game() {
   const moves = history.map((step, move) => {
     const desc = move ? 'Go to #' + move : 'Start the Game';
     return (
-      <li key={move}>
+      <li key={move} className="move">
         <button onClick={() => jumpTo(move)}>{desc}</button>
       </li>
     );
